@@ -1,0 +1,32 @@
+---
+import { readOne } from '../lib/markdoc/read';
+import { baseSchema } from '../lib/markdoc/frontmatter.schema';
+import Renderer from '../components/Renderer.astro';
+import BlogPostMeta from '../components/BlogPostMeta.astro';
+import ContentLayout from '../layouts/ContentLayout.astro';
+import { SITE_URL } from '../config';
+
+const { content, frontmatter } = await readOne({
+  directory: 'pages',
+  slug: 'cfp',
+  frontmatterSchema: baseSchema,
+});
+
+// console.log('content', content);
+
+// const ogImageAbsoluteUrl =
+//   frontmatter.external !== true && frontmatter.ogImagePath
+//     ? new URL(frontmatter.ogImagePath, SITE_URL).toString()
+//     : undefined;
+---
+
+<ContentLayout title={frontmatter.title} date={frontmatter.date}>
+  <BlogPostMeta
+    title={frontmatter.title}
+    description={frontmatter.description}
+    publishDate={frontmatter.date.toISOString()}
+    pagePath={'/cfp'}
+    slot="meta"
+  />
+  <Renderer content={content} slot="content" />
+</ContentLayout>
