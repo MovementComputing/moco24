@@ -208,7 +208,8 @@ If you have any questions please contact conference chair Laura Karreman at [l.l
 
 - Conference chair: Laura Karreman, Utrecht University
 - Scientific Program Chair: Maaike Bleeker, Utrecht University
-- Demo and artistic chair: Evelyn Wan, Utrecht University
+- Paper and Posters co-chair: Zerrin Yumak. Utrecht University
+- Demo and artistic chair: David Gauthier, Utrecht University
 - Workshop and Tutorials chair: Kim Baraka, Free University of Amsterdam
 - Doctoral Symposium co-chairs: Irene Alcubilla Troughton and Yotam Shibolet, PhD candidates at Utrecht University.
 - Festival chair: Grzegorz Reske, artistic director SPRING Performing Arts Festival
