@@ -15,7 +15,7 @@ The new submission deadline is 15 January 2024\*
 
 _This year's theme: Beyond Control_
 
-Contact: l.l.karreman@uu.nl
+Contact: moco24@uu.nl
 
 ---
 
@@ -217,7 +217,7 @@ Submissions consist of:
 
 ### Contact
 
-If you have any questions please contact conference chair Laura Karreman at [l.l.karreman@uu.nl](mailto:l.l.karreman@uu.nl).
+If you have any questions please contact conference chair Laura Karreman at [moco24@uu.nl](mailto:moco24@uu.nl).
 
 ### Conference Committee
 
