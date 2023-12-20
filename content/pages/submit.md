@@ -21,3 +21,20 @@ All papers submissions must be as anonymous as possible, including references th
 ## A note on reviews: For MOCO by MOCO
 
 Please note that after submitting your proposal to the MOCO conference, you may be approached by the MOCO Programme Committee to act as a reviewer for this conference. We would like to ask you to consider this question carefully, because without the support of the MOCO community in this process, it becomes very challenging to organize the conference. We would appreciate your engagement and contribution very much.
+
+## Estimating the Page Count
+
+The page numbers that are indicated for the proposals that are part of the ACM Publication track are based on a two-column output.
+
+The simplified input format of Word documents may make it difficult to determine a correspondence between ‘word count’ and the ‘page count’ of a well-formatted PDF document. The information below illustrates – in general terms – a correspondence between word count and page count. These estimations do not include figures, tables, or other elements typically found in an article, and this is exclusive of references.
+
+Word Count - Page Count (approximate):
+
+- 1,300 words = 2 pages of formatted, two-column output
+- 3,100 words = 4 pages of formatted, two-column output
+- 5,000 words = 6 pages of formatted, two-column output
+- 7,000 words = 8 pages of formatted, two-column output
+
+This information is based on the ACM Author Gateway - Proceedings
+
+[https://authors.acm.org/proceedings/production-information/taps-production-workflow](https://authors.acm.org/proceedings/production-information/taps-production-workflow)
