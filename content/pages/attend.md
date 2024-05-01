@@ -8,13 +8,13 @@ description: The registration for MOCO'24 is now open
 
 There are four payment categories available for the conference. Please select the appropriate link below to register, noting that Early Bird rates apply until **30 April**, after which the Standard Fee will be in effect. Included in the conference registration are access to the full conference programme, opening drinks, lunches, as well as coffee and tea throughout the event.
 
-| Registration type                                          | Early Bird Fee | Standard Fee | Link                                                                                                                                                 |
-| ---------------------------------------------------------- | -------------- | ------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Regular conference registration                            | 250 €          | 300 €        | [Register (Regular)](https://uusalesservices.uu.nl/moco24-conference-ticket-regular-early-bird)                                                      |
-| Utrecht University Staff / MOCO Steering Committee members | 150 €          | 175 €        | [Register (UU/Committee)](https://uusalesservices.uu.nl/moco24-conference-ticket-utrecht-university-staff-moco-steering-committee-member-early-bird) |
-| PhD researchers / students                                 | 90 €           | 100 €        | [Register (Student)](https://uusalesservices.uu.nl/moco24-conference-ticket-phd-researcher-student-early-bird)                                       |
-| Artist Voucher                                             | Free           | Free         | _See below_                                                                                                                                          |
-|                                                            |                |              |                                                                                                                                                      |
+| Registration type                                          | Early Bird Fee | Standard Fee | Link                                                                                                                                        |
+| ---------------------------------------------------------- | -------------- | ------------ | ------------------------------------------------------------------------------------------------------------------------------------------- |
+| Regular conference registration                            | 250 €          | 300 €        | [Register (Regular)](https://uusalesservices.uu.nl/moco24-conference-ticket-regular-standard)                                               |
+| Utrecht University Staff / MOCO Steering Committee members | 150 €          | 175 €        | [Register (UU/Committee)](https://uusalesservices.uu.nl/moco24-conference-ticket-utrecht-university-staff-moco-steering-committee-standard) |
+| PhD researchers / students                                 | 90 €           | 100 €        | [Register (Student)](https://uusalesservices.uu.nl/moco24-conference-ticket-phd-researchers-student-standard)                               |
+| Artist Voucher                                             | Free           | Free         | _See below_                                                                                                                                 |
+|                                                            |                |              |                                                                                                                                             |
 
 ## Artist Vouchers
 
