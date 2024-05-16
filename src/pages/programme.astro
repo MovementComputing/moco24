@@ -1,0 +1,72 @@
+---
+import { readOne } from '../lib/markdoc/read';
+import { baseSchema } from '../lib/markdoc/frontmatter.schema';
+import Renderer from '../components/Renderer.astro';
+import BlogPostMeta from '../components/BlogPostMeta.astro';
+import ContentLayout from '../layouts/ContentLayout.astro';
+import { SITE_URL } from '../config';
+
+const { content, frontmatter } = await readOne({
+  directory: 'pages',
+  slug: 'programme',
+  frontmatterSchema: baseSchema,
+});
+
+// console.log('content', content);
+
+// const ogImageAbsoluteUrl =
+//   frontmatter.external !== true && frontmatter.ogImagePath
+//     ? new URL(frontmatter.ogImagePath, SITE_URL).toString()
+//     : undefined;
+---
+
+<ContentLayout title={frontmatter.title} date={frontmatter.date}>
+  <div slot="pre-content">
+    <p>
+      Via the button below you can download the full conference programme of
+      MOCO’24, including the time schedule, locations, and an overview of all
+      presenters and the titles of their contributions in the format of Papers,
+      Posters, and Practice works.”
+    </p>
+    <div class="text-center mt-8">
+      <a href="/moco24-programme.pdf" class="btn-grad">
+        Download the Programme
+      </a>
+    </div>
+  </div>
+  <BlogPostMeta
+    title={frontmatter.title}
+    description={frontmatter.description}
+    publishDate={frontmatter.date.toISOString()}
+    pagePath={'/programme'}
+    slot="meta"
+  />
+  <Renderer content={content} slot="content" />
+</ContentLayout>
+
+<style>
+  .btn-grad {
+    background-image: linear-gradient(
+      to right,
+      #00c9ff 0%,
+      #92fe9d 51%,
+      #00c9ff 100%
+    );
+    margin: 10px;
+    padding: 15px 45px;
+    text-align: center;
+    text-transform: uppercase;
+    transition: 0.5s;
+    background-size: 200% auto;
+    color: white;
+    box-shadow: 0 0 20px #eee;
+    border-radius: 10px;
+    font-weight: bold;
+  }
+
+  .btn-grad:hover {
+    background-position: right center; /* change the direction of the change here */
+    color: #fff;
+    text-decoration: none;
+  }
+</style>
