@@ -63,6 +63,7 @@ const formattedDate = new Date(date).toLocaleDateString('en-us', {
           <time class="block mb-[2em] text-text-muted">{formattedDate}</time>
           <slot name="pre-content" />
           <slot name="content" />
+          <slot name="post-content" />
         </section>
       </main>
       <Footer />

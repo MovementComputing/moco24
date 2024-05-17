@@ -38,6 +38,6 @@ Given the busy schedule in Utrecht during MOCO, including the SPRING Performing 
 
 MOCO’24 Conference Venues: The main venues for the conference are as follows:
 
-1. ​ Het Huis, Boorstraat 107 – Main conference venue.
-2. ​ Parnassos Cultural Centre, Kruisstraat 20 – Venue for the Practice Works programme on Friday afternoon, 31 May.
-3. ​ Stadsschouwburg Utrecht / Utrecht City Theatre, Lucasbolwerk 24 – Main venue of the SPRING Performing Arts Festival.
+1. ​ [Het Huis, Boorstraat 107](https://maps.app.goo.gl/gdwzVREToAgQEpTcA) – Main conference venue.
+2. ​ [Parnassos Cultural Centre, Kruisstraat 20](https://maps.app.goo.gl/ThN8Tyrzs6UUHFxm6) – Venue for the Practice Works programme on Friday afternoon, 31 May.
+3. ​ [Stadsschouwburg Utrecht / Utrecht City Theatre, Lucasbolwerk 24 ](https://maps.app.goo.gl/QxvUGgP14JitL9fS8) – Main venue of the SPRING Performing Arts Festival.

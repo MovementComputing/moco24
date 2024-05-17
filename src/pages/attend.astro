@@ -29,4 +29,11 @@ const { content, frontmatter } = await readOne({
     slot="meta"
   />
   <Renderer content={content} slot="content" />
+  <div slot="post-content">
+    <iframe
+      src="https://www.google.com/maps/d/embed?mid=1_ZMfiU2vupCLBToeaMqRqVzlZsjw29Q&hl=fr&ehbc=2E312F"
+      width="640"
+      height="600"
+      class="w-full"></iframe>
+  </div>
 </ContentLayout>
