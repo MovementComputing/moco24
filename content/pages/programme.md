@@ -8,19 +8,19 @@ description: MOCO’24 Beyond Control - Conference programme
 
 > Location: Het Huis (Boorstraat 107, Utrecht)
 
-| **Time**      | **Programme**                                                                             |
-| ------------- | ----------------------------------------------------------------------------------------- |
-| 8.30          | **Conference registration opens**                                                         |
-| 8.30 – 9.00   | Coffee & tea                                                                              |
-| 9.00 – 12.15  | **Doctoral Consortium** - Chairs: Irene Alcubilla Troughton and Yotam Shibolet Soyun Jang |
-| 12.15 – 13.00 | **Lunch**                                                                                 |
-| 13.00 – 13.15 | **Welcome to MOCO'24** - Laura Karreman                                                   |
-| 13.15 – 13.45 | **MOCO-related research at Utrecht University** - Maaike Bleeker                          |
-| 13.45– 14.45  | **Keynote Gibson/Martelli**                                                               |
-| 14.45 – 15.15 | **Break**                                                                                 |
-| 15.15 – 16.30 | **Panel 1: Beyond Control: Reflecting on Emerging Technologies**                          |
-| 16.30 – 18.00 | **Opening drinks**                                                                        |
-| Evening       | Recommended: SPRING Festival visit on your own                                            |
+| **Time**      | **Programme**                                                                  |
+| ------------- | ------------------------------------------------------------------------------ |
+| 8.30          | **Conference registration opens**                                              |
+| 8.30 – 9.00   | Coffee & tea                                                                   |
+| 9.00 – 12.15  | **Doctoral Consortium** - Chairs: Irene Alcubilla Troughton and Yotam Shibolet |
+| 12.15 – 13.00 | **Lunch**                                                                      |
+| 13.00 – 13.15 | **Welcome to MOCO'24** - Laura Karreman                                        |
+| 13.15 – 13.45 | **MOCO-related research at Utrecht University** - Maaike Bleeker               |
+| 13.45– 14.45  | **Keynote Gibson/Martelli**                                                    |
+| 14.45 – 15.15 | **Break**                                                                      |
+| 15.15 – 16.30 | **Panel 1: Beyond Control: Reflecting on Emerging Technologies**               |
+| 16.30 – 18.00 | **Opening drinks**                                                             |
+| Evening       | Recommended: SPRING Festival visit on your own                                 |
 
 ## Conference Day 2 – Friday 31 May
 
